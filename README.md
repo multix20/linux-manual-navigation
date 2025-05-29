@@ -2,7 +2,7 @@
 
 Este repositorio demuestra el dominio del uso de herramientas de documentación en sistemas GNU/Linux. Forma parte del aprendizaje adquirido en el curso **Linux Essentials** dictado por Cisco y está diseñado para reflejar habilidades fundamentales en la administración de sistemas Linux.
 
----
+
 
 ## 🎯 Objetivo del Proyecto
 
@@ -30,7 +30,7 @@ linux-manual-navigation/
 └── uso_man_automatizado.sh # Script de consulta automatizada con man
 
 
----
+-img/inicio.jpg
 
 ## 🧠 Habilidades Demostradas
 
